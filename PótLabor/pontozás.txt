@@ -1,0 +1,4 @@
+2-es feladat : 4 pont -rossz 0.5
+1-es feladat : 2 pont -nem szimuláltam vissza 1 pont
+3-as feladat : 3 pont 3 pont
+4.5 + 1  = 5.5( 6-os )
